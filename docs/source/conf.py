@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'MKDC'
+copyright = '2023, Tecotec'
+author = 'Tecotec Group'
 
 release = '0.1'
 version = '0.1.0'
